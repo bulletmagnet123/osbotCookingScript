@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CookingScriptBulletmagnet">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="CookingScriptBulletmagnet.jar">
+      <element id="module-output" name="osbotCookingScript" />
+    </root>
+  </artifact>
+</component>
